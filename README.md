@@ -1,6 +1,6 @@
 # oppobotter
 
-methods:
+#methods:
 
 choose_pic
 - looks at pics that have been liked, not used, and checks that request to use hasn't been denied
@@ -22,7 +22,7 @@ post_pic(pic_id, [lyric1, lyric2])
 comment_liked_pics
 - comment something like "<3 this cuz it's quite beautiful, hoping to repost via my account with a *kind of* random lyric, please reply "STOP" if you don't want me to and i'll take it out of queue. ~oppobotter"
 
-data inputs needed:
+#data inputs needed:
 - english synonym-antonym dictionary
 - french synonym-antonym dictionary
 - spanish synonym-antonym dictionary
